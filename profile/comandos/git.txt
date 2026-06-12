@@ -9,3 +9,13 @@ git branch -M main                # Renomeia a branch atual para main
 git remote add origin https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git  # Conecta o projeto ao GitHub
 
 git push -u origin main           # Envia o código para o GitHub pela primeira vez
+
+///////////////////////////////////////////////////////////////////////////////////////////
+
+git comentarios
+
+| Tipo  | Quando usar                     |
+| ----- | ------------------------------- |
+| feat  | adicionou algo novo             |
+| fix   | corrigiu algo                   |
+| chore | mudanças pequenas / organização |

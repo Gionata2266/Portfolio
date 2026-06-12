@@ -1,4 +1,5 @@
 import './App.css'
+import { FiMoon } from "react-icons/fi";
 
 function App() {
   return (
@@ -13,7 +14,7 @@ function App() {
             <p>Tecnologias</p>
             <p>Progetos</p>
             <p>Contato</p>
-            <p>?@?</p>
+            <FiMoon size={18} />
           </div>
 
         </div>
