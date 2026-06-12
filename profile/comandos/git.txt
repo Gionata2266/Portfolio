@@ -1,0 +1,11 @@
+git init                          # Cria um repositório Git na pasta atual
+
+git add .                         # Adiciona todos os arquivos para o próximo commit
+
+git commit -m "feat: Hello World primeiro commit"  # Salva uma versão do projeto com uma mensagem
+
+git branch -M main                # Renomeia a branch atual para main
+
+git remote add origin https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git  # Conecta o projeto ao GitHub
+
+git push -u origin main           # Envia o código para o GitHub pela primeira vez
